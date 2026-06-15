@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "647952004872",
+    "project_id": "ncr-nexus",
+    "storage_bucket": "ncr-nexus.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:647952004872:android:a6e08daac66d80bac99ebd",
+        "android_client_info": {
+          "package_name": "com.example.myappncr"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5e99uWPfgLXrOB-IqXsly-MJOjqoAi4Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
