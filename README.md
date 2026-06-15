@@ -22,5 +22,5 @@ Aplicación móvil desarrollada en Android Studio para la gestión de solicitude
 
 ## Autora
 
-Maleja De la Rosa
-Universidad de Antioquia
+Maria De la Rosa
+ADSO
